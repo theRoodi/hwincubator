@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hwincubator/static/css/main.073c9b0a.css",
+    "main.js": "/hwincubator/static/js/main.6755686c.js",
+    "static/js/787.177e23c2.chunk.js": "/hwincubator/static/js/787.177e23c2.chunk.js",
+    "index.html": "/hwincubator/index.html",
+    "main.073c9b0a.css.map": "/hwincubator/static/css/main.073c9b0a.css.map",
+    "main.6755686c.js.map": "/hwincubator/static/js/main.6755686c.js.map",
+    "787.177e23c2.chunk.js.map": "/hwincubator/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6755686c.js"
+  ]
+}
